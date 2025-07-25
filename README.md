@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="banner" width="100%" />
+</p>
 
-<!--
-**Ulinkt30/Ulinkt30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I’m Ulin (Ulinkt30)</h1>
+<h3 align="center">Front‑End Web Developer | JS · Tailwind · GSAP | UI/UX Enthusiast</h3>
 
-Here are some ideas to get you started:
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript‑ES6‑F7DF1E?logo=javascript" />
+  <img src="https://img.shields.io/badge/TailwindCSS‑38B2AC?logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/GSAP‑88CE02?logo=greensock&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tentang Saya
+
+- 💡 Saya suka membuat UI web yang interaktif & estetik
+- 🌱 Sedang belajar: React JS, dan Laravel dasar
+- 🧩 Proyek aktif: AiLink, Web Kelas, Portofolio
+- 📫 Kontak: `ulin.dev@gmail.com`
+
+---
+
+### 🧪 Teknologi yang Saya Gunakan
+
+```bash
+💻 Bahasa: HTML, CSS, JavaScript
+🎨 Framework: Tailwind CSS, GSAP, Vue (dasar)
+⚙️ Tools: Git, Figma, VSCode, Vite
+🗃️ Lainnya: Firebase (dasar), Netlify, Vercel
